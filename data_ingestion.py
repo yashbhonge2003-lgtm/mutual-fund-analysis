@@ -1,3 +1,7 @@
+# Load all CSV files from raw data folder
+# Check dataset structure and data quality
+# Display missing values and duplicate records
+
 import pandas as pd
 import os
 
