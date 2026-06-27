@@ -1,0 +1,147 @@
+# Mutual Fund Analytics Project Report
+
+## Prepared By
+
+**Yash Bhonge**
+
+---
+
+# 1. Introduction
+
+The objective of this project was to analyze the Indian mutual fund industry using historical datasets. The analysis focused on NAV trends, Assets Under Management (AUM), SIP inflows, investor demographics, folio growth, and portfolio allocation. Python was used to clean the data, perform exploratory data analysis (EDA), and create meaningful visualizations.
+
+---
+
+# 2. Objectives
+
+* Clean and preprocess mutual fund datasets.
+* Analyze NAV trends across schemes.
+* Study AUM growth of fund houses.
+* Analyze monthly SIP inflows.
+* Understand investor demographics.
+* Examine folio count growth.
+* Analyze sector allocation.
+* Generate insights using data visualization.
+
+---
+
+# 3. Dataset Used
+
+The project used the following datasets:
+
+* Fund Master
+* NAV History
+* AUM by Fund House
+* Monthly SIP Inflows
+* Category-wise Inflows
+* Industry Folio Count
+* Scheme Performance
+* Investor Transactions
+* Portfolio Holdings
+* Benchmark Indices
+
+---
+
+# 4. Data Cleaning
+
+The following preprocessing steps were performed:
+
+* Removed duplicate records.
+* Converted date columns into datetime format.
+* Converted numerical columns to appropriate data types.
+* Standardized column names.
+* Checked and handled missing values.
+* Created additional columns such as Year where required.
+* Verified cleaned datasets before analysis.
+
+---
+
+# 5. Tools and Technologies
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Plotly
+* Jupyter Notebook
+* VS Code
+* Git & GitHub
+
+---
+
+# 6. Exploratory Data Analysis
+
+The following visualizations were created:
+
+* NAV Trend Analysis
+* AUM Growth by Fund House
+* SIP Monthly Trend
+* Category Inflow Heatmap
+* Age Group Distribution
+* SIP Amount Box Plot
+* Gender Distribution
+* Investment by State
+* T30 vs B30 City Distribution
+* Folio Count Growth
+* NAV Correlation Matrix
+* Sector Allocation Donut Chart
+* Scheme Count by Fund House
+* Risk Category Distribution
+* Benchmark Distribution
+
+---
+
+# 7. Key Findings
+
+* Mutual fund NAVs showed an overall upward trend.
+* SBI Mutual Fund had the highest AUM among fund houses.
+* SIP inflows increased steadily, reaching ₹31,002 crore in December 2025.
+* Equity-oriented categories received higher investor inflows.
+* Investors belonged to different age groups and regions.
+* Participation from B30 cities is increasing.
+* Mutual fund folios showed continuous growth.
+* Many schemes had strong positive return correlations.
+* Equity portfolios were diversified across multiple sectors.
+* Fund houses offered schemes across different risk categories and benchmark indices.
+
+---
+
+# 8. Challenges Faced
+
+* Cleaning and standardizing multiple datasets.
+* Handling different date formats.
+* Preparing data for visualization.
+* Combining information from multiple files for analysis.
+
+---
+
+# 9. Conclusion
+
+This project provided practical experience in data cleaning, exploratory data analysis, and visualization using Python. The analysis helped identify important trends in NAV performance, SIP growth, AUM, investor participation, and portfolio allocation. The project strengthened my understanding of data analytics and demonstrated how meaningful insights can be generated from financial datasets.
+
+---
+
+# 10. Future Scope
+
+* Develop an interactive Power BI dashboard.
+* Build predictive models for NAV forecasting.
+* Add real-time mutual fund data using APIs.
+* Compare mutual fund performance with benchmark indices.
+
+---
+
+# 11. References
+
+* AMFI (Association of Mutual Funds in India)
+* Python Documentation
+* Pandas Documentation
+* Plotly Documentation
+* Matplotlib Documentation
+* Seaborn Documentation
+
+---
+
+# 12. Acknowledgement
+
+I sincerely thank my internship organization for providing me with the opportunity to work on this project. I also thank my mentors for their guidance and support throughout the project. This project helped me improve my practical knowledge of Python, data analysis, and data visualization.
